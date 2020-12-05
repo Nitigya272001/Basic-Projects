@@ -1,2 +1,1 @@
-# Basic-Projects
-## Ping-Pong
+# Ping Pong
